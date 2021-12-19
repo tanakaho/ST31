@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyBMI</string>
+    <string name="action_settings">MyBMI</string>
+    <string name="height">身長を入力してください(cm)</string>
+    <string name="width">体重を入力してください(kg)</string>
+    <string name="BMIButton">結果を見る</string>
+    <string name="slim">痩せています</string>
+    <string name="normal">普通です</string>
+    <string name="fat">太っています</string>
+    <string name="result">あなたのBMI値は</string>
+    <string name="more">もう一度やり直す</string>
+    <string name="sub_name">Result</string>
+    <string name="stn">標準体重まであと</string>
+    <string name="stn2">kg</string>
+    <string name="brth">年齢を選んでください</string>
+</resources>
